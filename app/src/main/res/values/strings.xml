@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fission Yeast Cell Cycle</string>
+    <string name="G1">G1</string>
+    <string name="START">START</string>
+    <string name="G1S">G1/S</string>
+    <string name="G2">G2</string>
+    <string name="G2M">G2/M</string>
+    <string name="M">M</string>
+    <string name="title_activity_temporal_extended">TemporalExtendedActivity</string>
+</resources>
